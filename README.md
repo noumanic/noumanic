@@ -94,5 +94,3 @@ More on [**my portfolio**](https://noumanhafeez.vercel.app) and [**repositories*
 ---
 
 **MNH · Fastian · Computer Scientist · AI & Data · MLOps · Full-Stack**
-
-noumanic
