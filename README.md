@@ -11,7 +11,6 @@ Building scalable AI systems, production MLOps pipelines, and full-stack applica
 
 ## About me
 
-- **Location:** Rawalpindi, Punjab, Pakistan  
 - **Focus:** AI & Data, MLOps, Full-Stack, Data Science  
 - **Interests:** LLMs & NLP, DevOps & MLOps, Cloud, system design, clean code  
 - **Stats:** 2+ years experience · 12+ projects · 30+ technologies  
