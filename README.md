@@ -1,10 +1,6 @@
 <p align="center">
   <img src="github_profile_banner.gif" alt="Github Profile Banner">
-</p>
-
-# Hi, I'm Muhammad Nouman Hafeez
-
-**Computer Scientist** · Final-year @ [FAST NUCES Islamabad](https://isb.nu.edu.pk/)  
+</p> 
 Building scalable AI systems, production MLOps pipelines, and full-stack applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-58a6ff?style=flat&logo=vercel)](https://noumanhafeez.vercel.app)
