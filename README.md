@@ -1,4 +1,5 @@
-![Banner](./banner.gif)
+# Hi, I'm Muhammad Nouman Hafeez
+
 **Computer Scientist** · Final-year @ [FAST NUCES Islamabad](https://isb.nu.edu.pk/)  
 Building scalable AI systems, production MLOps pipelines, and full-stack applications.
 
