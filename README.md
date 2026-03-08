@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github_profile_banner.gif" alt="Github Profile Banner">
+</p>
+
 # Hi, I'm Muhammad Nouman Hafeez
 
 **Computer Scientist** · Final-year @ [FAST NUCES Islamabad](https://isb.nu.edu.pk/)  
