@@ -1,5 +1,4 @@
-![Banner](./github_profile_banner.gif)
-
+![Banner](./banner.gif)
 **Computer Scientist** · Final-year @ [FAST NUCES Islamabad](https://isb.nu.edu.pk/)  
 Building scalable AI systems, production MLOps pipelines, and full-stack applications.
 
