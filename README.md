@@ -25,7 +25,7 @@ I aim to merge **AI**, **full-stack development**, and **data science** to build
 |---|---|
 | **Degree** | BS in Computer Science |
 | **Institution** | [FAST NUCES Islamabad](https://isb.nu.edu.pk/) |
-| **Duration** | Aug 2021 – Present |
+| **Duration** | Aug 2021 – May 2026 |
 | **CGPA** | 3.15 / 4.00 |
 | **Focus** | AI, Data Science, Full-Stack Engineering |
 
